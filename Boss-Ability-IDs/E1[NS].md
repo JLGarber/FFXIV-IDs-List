@@ -13,6 +13,14 @@ Ability ID | Ability Name | Difficulty | Common Callout
 3DA3 | Pure Beam | Savage? | Go Behind
 3D88 | Spear Of Paradise | Normal? | Tank Buster on [Target]
 3DA1 | Spear Of Paradise | Savage? | Tank Buster on [Target] (tank swap ot invuln)
+44EF | Vice And Virtue | Savage | DPS Puddles
+44EE | Vice And Virtue | Savage | Split Buster
+44F0 | Vice And Virtue | Savage | Prey Healer
+3D78 | Vice And Virtue | Savage | Split Stack - Tank Behind
+3D7A | Vice And Virtue | Savage | Stack with Partner
+3D7D | Vice And Virtue | Savage | Prey - DPS Grab it
+44E5 | Vice And Virtue | Normal | DPS Puddles
+44E4 | Vice And Virtue | Normal | Split Buster
 
 
 ### Fight Mechanics
