@@ -37,8 +37,8 @@ In that case, i need to make sure the "variable" elements are REGEX-ed
 OK. But now the issue is that it will trigger on anyone using a AA
 (if you are lost here, i suggest you play around with [Regex101](https://regex101.com/) )
 In this case, we have basically 2 options: 
-1 - Make a capture group for the Caster ID
-2 - Make a capture group for the Caster Name
+1. - Make a capture group for the Caster ID
+2. - Make a capture group for the Caster Name
 
 The main concern of using the Caster Name field is that if you play with someone that has the exact same name as you, it can cause some issues (however, i have yet to see this happen)
 
