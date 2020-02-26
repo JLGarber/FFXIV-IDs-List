@@ -1,4 +1,4 @@
-## Regen
+## :89:Regen: (0x89 = 137)
 
 #### Skill
 
