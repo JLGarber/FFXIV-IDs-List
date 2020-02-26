@@ -44,6 +44,7 @@ In this case, we have basically 2 options:
 The main concern of using the Caster Name field is that if you play with someone that has the exact same name as you, it can cause some issues (however, i have yet to see this happen)
 
 `15:[A-F0-9]{8}:(?<player>[a-zA-Z-' ]{3,21}):07:Attack:`
+
 `15:(?<playerid>[A-F0-9]{8}):[a-zA-Z-' ]{3,21}:07:Attack:`
 Note that the name of the capture group can be what you want (the name being <name>)
 
