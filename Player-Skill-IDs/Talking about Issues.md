@@ -13,4 +13,4 @@ the Skill Used log lines does not have the duration
 
 So, in this case what's the best option ?  
 Regex off of the `1[AE]:` line ? or off of the `15:` line ?  
-To that i do not have tyhe answer, it mainly depends on what you want to achieve really. The easier way would be going for the buff line, mainly because you do have access to the duration. However, it's possible to go for the skill used and set a duration manually. It's up to YOU
+To that i do not have the answer, it mainly depends on what you want to achieve really. The easier way would be going for the buff line, mainly because you do have access to the duration. However, it's possible to go for the skill used and set a duration manually. It's up to YOU
