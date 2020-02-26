@@ -10,3 +10,7 @@ HOWEVER
 
 the Skill Used log lines does not have the duration  
 `15:[A-F0-9]{8}:(?<caster>[a-zA-Z-' ]{3,23}):89:Regen:[A-F0-9]{8}:(?<target>[a-zA-Z-' ]{3,21}):`
+
+So, in this case what's the best option ?  
+Regex off of the `1[AE]:` line ? or off of the `15:` line ?  
+To that i do not have tyhe answer, it mainly depends on what you want to achieve really. The easier way would be going for the buff line, mainly because you do have access to the duration. However, it's possible to go for the skill used and set a duration manually. It's up to YOU
