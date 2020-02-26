@@ -46,6 +46,7 @@ The main concern of using the Caster Name field is that if you play with someone
 `15:[A-F0-9]{8}:(?<player>[a-zA-Z-' ]{3,21}):07:Attack:`
 
 `15:(?<playerid>[A-F0-9]{8}):[a-zA-Z-' ]{3,21}:07:Attack:`
+
 Note that the name of the capture group can be what you want (the name being <name>)
 
 Now that we have our basic regex with what we want to capture, it's time to start thinking about making it a bit more efficient
