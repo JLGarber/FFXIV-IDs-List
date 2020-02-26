@@ -1,28 +1,33 @@
+# WHM IDs
 
+:78:Cure:  
+:87:Cure II:  
+
+:4093:Afflatus Solace:  
 
 :89:Regen:  
-:DF2:Tetragrammaton:  
-:4094:Dia:  
-:1D08:Divine Benison:  
-:4095:Glare:  
-:87:Cure II:  
-:78:Cure:  
-:4098:Temperance:  
-:1D06:Thin Air:  
-:8C:Benediction:  
-:88:Presence Of Mind:  
-:86:Fluid Aura:  
-:4093:Afflatus Solace:  
+
 :77:Stone:  
-:79:Aero:  
-:7D:Raise:  
-:84:Aero II:  
 :7F:Stone II:  
 :DF0:Stone III:  
-:D107:Stone IV:
+:D107:Stone IV:  
+:4095:Glare:  
 
+:79:Aero:  
+:84:Aero II:  
+:4094:Dia:  
 
-:DF1:Asylum: (16:)  
+:8C:Benediction:  
+:DF2:Tetragrammaton:  
+:1D08:Divine Benison:  
+:4098:Temperance:  
+
+:86:Fluid Aura:  
+
+:1D06:Thin Air:  
+:88:Presence Of Mind:  
+
+:7D:Raise:  
 
 
 :DF3:Assize: (1[56]:)  
@@ -33,6 +38,10 @@
 :4097:Afflatus Misery: (1[56]:)
 
 ? :1D09:Plenary Indulgence: (1[56]:)?  
+
+
+:DF1:Asylum: (16:)  
+
 
 
 ## :89:Regen: (0x89 = 137)
