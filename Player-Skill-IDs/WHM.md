@@ -13,6 +13,9 @@
 :88:Presence Of Mind:  
 :86:Fluid Aura:  
 :4093:Afflatus Solace:  
+:77:Stone:  
+:79:Aero:  
+
 
 
 :DF1:Asylum: (16:)  
