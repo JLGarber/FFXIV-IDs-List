@@ -1,3 +1,41 @@
+
+
+:89:Regen:  
+:DF2:Tetragrammaton:  
+:4094:Dia:  
+:1D08:Divine Benison:  
+:4095:Glare:  
+:87:Cure II:  
+:78:Cure:  
+:4098:Temperance:  
+:1D06:Thin Air:  
+:8C:Benediction:  
+:88:Presence Of Mind:  
+:86:Fluid Aura:  
+:4093:Afflatus Solace:  
+
+
+:DF1:Asylum: (16:)  
+
+
+:DF3:Assize: (1[56]:)  
+:85:Medica II: (1[56]:)  
+:83:Cure III: (1[56]:)  
+:7C:Medica: (1[56]:)  
+:4096:Afflatus Rapture: (1[56]:)  
+:4097:Afflatus Misery: (1[56]:)
+
+? :1D09:Plenary Indulgence: (1[56]:)?  
+
+
+Role Actions  
+:1D90:Esuna:  
+:1D8A:Lucid Dreaming:  
+:1D89:Swiftcast:  
+:1D87:Surecast:  
+
+
+
 ## :89:Regen: (0x89 = 137)
 
 #### Skill
