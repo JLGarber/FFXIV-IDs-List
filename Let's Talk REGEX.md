@@ -28,6 +28,7 @@ This part of the line is all i really need, and i can actually remove the Abilit
 
 Now, While this regex in itself can work, it's far from ideal for a major reason: 
 - it's tied to MY character name and ID
+
 The main concern with that is that if i decide to play on another character, it won't work. Or if i try to give my trigger so someone else, it won't work either
 
 In that case, i need to make sure the "variable" elements are REGEX-ed
