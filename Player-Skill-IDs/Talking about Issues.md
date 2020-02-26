@@ -8,5 +8,5 @@ Plus, it's harder to make the regex works on various languages, mainly because t
 
 HOWEVER
 
-the Skill Used log lines does not have the duration. (or at least, not easily readable)  
+the Skill Used log lines does not have the duration
 `15:[A-F0-9]{8}:(?<caster>[a-zA-Z-' ]{3,23}):89:Regen:[A-F0-9]{8}:(?<target>[a-zA-Z-' ]{3,21}):`
