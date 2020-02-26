@@ -4,6 +4,7 @@ List of player skills and abilities IDs
 
 \\As well as a baseline for the rest\\
 
+Make sure you do check out [Quisquous Log Guide](https://github.com/quisquous/cactbot/blob/master/docs/LogGuide.md)
 Let's talk about REGEX a bit more here
 - FFXIV Network Log Lines
 
