@@ -18,7 +18,7 @@
 :7D:Raise:  
 :84:Aero II:  
 :7F:Stone II:  
-:DF0"Stone III:  
+:DF0:Stone III:  
 :D107:Stone IV:
 
 
