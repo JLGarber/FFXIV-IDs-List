@@ -30,10 +30,10 @@
 :7D:Raise:  
 
 
-:DF3:Assize: (1[56]:)  
-:85:Medica II: (1[56]:)  
-:83:Cure III: (1[56]:)  
 :7C:Medica: (1[56]:)  
+:83:Cure III: (1[56]:)  
+:85:Medica II: (1[56]:)  
+:DF3:Assize: (1[56]:)  
 :4096:Afflatus Rapture: (1[56]:)  
 :4097:Afflatus Misery: (1[56]:)
 
