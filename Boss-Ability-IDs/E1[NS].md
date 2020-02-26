@@ -12,7 +12,7 @@ Ability ID | Ability Name | Difficulty | Common Callout
 Savage
 
 ###### 44F4  
-A big + sign from the moiddle, as well as a point-blank AoE, leaving the corners of the arena "safe"  
+A big + sign from the middle, as well as a point-blank AoE, leaving the corners of the arena "safe"  
 all 8 players have a fire explosion however  
 
 Have 2 player per corner to avoid overlappping fires
