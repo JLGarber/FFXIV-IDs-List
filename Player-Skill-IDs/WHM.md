@@ -33,9 +33,9 @@ Hex Line | Hex ID | Name | Dec ID | Dec Line
 
 
 
-## :89:Regen: (0x89 = 137)
+### :89:Regen: (0x89 = 137)
 
-#### Skill
+##### Skill
 
 Example Line  
 `[11:03:32.136] 15:1004594B:Aho Senpai:89:Regen:1004594B:Aho Senpai:A0520E:9E0000:1B:898000:0:0:0:0:0:0:0:0:0:0:0:0:90301:90301:10000:0:0:1000:717.3131:265.6258:28.42561:0.55195:90301:90301:10000:0:0:1000:717.3131:265.6258:28.42561:0.55195:0031D30C`
@@ -44,7 +44,7 @@ Minimal Regex
 `\[.{14}15:[A-F0-9]{8}:[a-zA-Z-' ]{3,21}:89:`  
 (not really used, mostly buff gained/lost is used)
 
-#### Buff
+##### Buff
 
 Example Line  
 `[11:03:33.156] 1A:1004594B:Aho Senpai gains the effect of Regen from Aho Senpai for 18.00 Seconds.`  
@@ -52,3 +52,11 @@ Example Line
 
 "Practical" REGEX  
 `\[.{14}1[AE]:[A-F0-9]{8}:(?<target>[a-zA-Z-' ]{3,21}) (?>gains|loses) the effect of Regen from (?<caster>[a-zA-Z-' ]{3,21})(?> for (?<timer>\d{1,2})\.\d{1,2} Seconds)?\.`  
+
+### Tetragramaton
+
+##### Skill
+
+Example Line  
+`[11:03:34.278] 15:1004594B:Aho Senpai:DF2:Tetragrammaton:1004594B:Aho Senpai:4:70250000:0:0:0:0:0:0:0:0:0:0:0:0:0:0:90301:90301:9500:0:0:1000:717.3131:265.6258:28.42561:0.55195:90301:90301:9500:0:0:1000:717.3131:265.6258:28.42561:0.55195:0031D30F`
+
