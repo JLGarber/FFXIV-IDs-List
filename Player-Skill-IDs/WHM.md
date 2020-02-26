@@ -15,26 +15,21 @@ Hex Line | Hex ID | Name
 15|84|Aero II  
 15|4094|Dia
 15|8C|Benediction
-15|DF2|Tetragrammaton:  
-15|1D08|Divine Benison:  
-15|4098|Temperance:  
-15|86|Fluid Aura:  
-15|1D06|Thin Air:  
-15|88|Presence Of Mind:  
-15|7D|Raise:  
-
-### Single Target OR AoE
-:7C:Medica: (1[56]:)  
-:83:Cure III: (1[56]:)  
-:85:Medica II: (1[56]:)  
-:DF3:Assize: (1[56]:)  
-:4096:Afflatus Rapture: (1[56]:)  
-:4097:Afflatus Misery: (1[56]:)
-
-? :1D09:Plenary Indulgence: (1[56]:)?  
-
-### Always AoE
-:DF1:Asylum: (16:)  
+15|DF2|Tetragrammaton  
+15|1D08|Divine Benison  
+15|4098|Temperance  
+15|86|Fluid Aura  
+15|1D06|Thin Air
+15|88|Presence Of Mind 
+15|7D|Raise 
+1[56]|7C|Medica  
+1[56]|83|Cure III  
+1[56]|85|Medica II  
+1[56]|DF3|Assize  
+1[56]|4096|Afflatus Rapture
+1[56]|4097|Afflatus Misery
+1[56]?|1D09|Plenary Indulgence
+16|DF1|Asylum  
 
 
 
