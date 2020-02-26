@@ -22,5 +22,40 @@ Now that we have the part that interest us, let's see what all of this means
 ---|---|---|---|---|---|---|---|---
 Line ID|Caster ID|Caster Name|Ability ID|Ability Name|Target ID|Target Name|*to add exact meaning*|*to add exact meaning*
 
+Now that this is clear, let's say i want to make a regex for a trigger to beep everytime i do an AA (Auto Attack)
 
-- "Raw events" Log Lines
+`15:1004594B:Aho Senpai:07:Attack:`
+
+This part of the line is all i really need, and i can actually remove the Ability Name part if i want too, but it'll leave it. 
+(Removing the ability name in this case can really help if trying to make a trigger that work regardless of game language`
+
+Now, While this regex in itself can work, it's far from ideal for a major reason: 
+- it's tied to MY character name and ID
+The main concern with that is that if i decide to play on another character, it won't work. Or if i try to give my trigger so someone else, it won't work either
+
+In that case, i need to make sure the "variable" elements are REGEX-ed
+
+`15:[A-F0-9]{8}:[a-zA-Z-' ]{3,21}:07:Attack:`
+
+OK. But now the issue is that it will trigger on anyone using a AA
+(if you are lost here, i suggest you play around with [Regex101](https://regex101.com/) )
+In this case, we have basically 2 options: 
+1 - Make a capture group for the Caster ID
+2 - Make a capture group for the Caster Name
+
+The main concern of using the Caster Name field is that if you play with someone that has the exact same name as you, it can cause some issues (however, i have yet to see this happen)
+
+`15:[A-F0-9]{8}:(?<player>[a-zA-Z-' ]{3,21}):07:Attack:`
+`15:(?<playerid>[A-F0-9]{8}):[a-zA-Z-' ]{3,21}:07:Attack:`
+Note that the name of the capture group can be what you want (the name being <name>)
+
+Now that we have our basic regex with what we want to capture, it's time to start thinking about making it a bit more efficient
+See, the issue with the regex we have now is that it will go through each line looking for a string that starts with `15:` basically, which is not ideal. We want our regex to "fail" as soon as possible if the line does not match
+
+Remember how the line starts with the timestamp ? Yeah, we basically keep that in mind in the regex
+
+`\[.{14}15:[A-F0-9]{8}:(?<player>[a-zA-Z-' ]{3,21}):07:Attack:`
+
+The timestamp being static lenght, we can safely do this. this heavily reduce the amount of steps needed to "fail" the regex
+
+There you go, you now have a nice regex for your basic AAs
