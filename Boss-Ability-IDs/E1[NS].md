@@ -1,6 +1,6 @@
 # Eden's Gate: Resurrection [Normal | Savage]
 
-[The Balance Text Guide](https://thebalanceffxiv.com/guide/e1s/)
+[The Balance Text Guide (Savage)](https://thebalanceffxiv.com/guide/e1s/)
 
 Ability ID | Ability Name | Difficulty | Common Callout
 ---|---|---|---
