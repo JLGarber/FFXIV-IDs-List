@@ -16,6 +16,10 @@
 :77:Stone:  
 :79:Aero:  
 :7D:Raise:  
+:84:Aero II:  
+:7F:Stone II:  
+:DF0"Stone III:  
+:D107:Stone IV:
 
 
 :DF1:Asylum: (16:)  
