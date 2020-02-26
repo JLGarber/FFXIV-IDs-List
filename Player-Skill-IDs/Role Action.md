@@ -5,3 +5,4 @@ Role Actions
 :1D89:Swiftcast:  
 :1D87:Surecast:  
 :40B0:Repose:  
+:1D93:Rescue:  
