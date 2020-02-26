@@ -1,5 +1,6 @@
 # WHM IDs
 
+### Single Target
 :78:Cure:  
 :87:Cure II:  
 
@@ -29,7 +30,7 @@
 
 :7D:Raise:  
 
-
+### Single Target OR AoE
 :7C:Medica: (1[56]:)  
 :83:Cure III: (1[56]:)  
 :85:Medica II: (1[56]:)  
@@ -39,7 +40,7 @@
 
 ? :1D09:Plenary Indulgence: (1[56]:)?  
 
-
+### Always AoE
 :DF1:Asylum: (16:)  
 
 
