@@ -32,7 +32,7 @@ Savage
 #### Delta Attack
 
 Regex  
-`14:(?<cast>[A-F0-9]{4}):Eden Prime starts using Delta Attack on Eden Prime`
+`\[.{14}14:(?<cast>[A-F0-9]{4}):Eden Prime starts using Delta Attack on Eden Prime`
 
 ###### 44F4  
 A big + sign from the middle, as well as a point-blank AoE, leaving the corners of the arena "safe"  
