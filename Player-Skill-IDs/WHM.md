@@ -1,7 +1,7 @@
 # WHM IDs
 
 Hex Line | Hex ID | Name
----|---|---
+:---:|:---:|:---:
 15|78|Cure  
 15|87|Cure II
 15|4093|Afflatus Solace
