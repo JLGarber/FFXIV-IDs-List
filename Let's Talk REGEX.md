@@ -49,7 +49,7 @@ The main concern of using the Caster Name field is that if you play with someone
 
 Note that the name of the capture group can be what you want (the name being <name>)
 
-Now that we have our basic regex with what we want to capture, it's time to start thinking about making it a bit more efficient
+Now that we have our basic regex with what we want to capture, it's time to start thinking about making it a bit more efficient  
 See, the issue with the regex we have now is that it will go through each line looking for a string that starts with `15:` basically, which is not ideal. We want our regex to "fail" as soon as possible if the line does not match
 
 Remember how the line starts with the timestamp ? Yeah, we basically keep that in mind in the regex
