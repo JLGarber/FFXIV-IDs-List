@@ -36,7 +36,7 @@ In that case, i need to make sure the "variable" elements are REGEX-ed
 `15:[A-F0-9]{8}:[a-zA-Z-' ]{3,21}:07:Attack:`
 
 OK. But now the issue is that it will trigger on anyone using a AA
-(if you are lost here, i suggest you play around with [Regex101](https://regex101.com/) )
+(if you are lost here, i suggest you play around with [Regex101](https://regex101.com/))  
 In this case, we have basically 2 options: 
 1. - Make a capture group for the Caster ID
 2. - Make a capture group for the Caster Name
