@@ -58,4 +58,4 @@ Remember how the line starts with the timestamp ? Yeah, we basically keep that i
 
 The timestamp being static lenght, we can safely do this. this heavily reduce the amount of steps needed to "fail" the regex
 
-There you go, you now have a nice regex for your basic AAs
+There you go, you now have a nice regex for your basic AAs (not super usefull, granted)
