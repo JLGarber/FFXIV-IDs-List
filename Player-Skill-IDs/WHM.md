@@ -9,7 +9,7 @@ Hex Line | Hex ID | Name
 15|77|Stone
 15|7F|Stone II
 15|DF0|Stone III
-15||D107|Stone IV
+15|D107|Stone IV
 15|4095|Glare
 15|79|Aero  
 15|84|Aero II  
