@@ -14,7 +14,6 @@ Broken Down Line
 #### Buff
 
 Example Line
-
 `[11:03:33.156] 1A:1004594B:Aho Senpai gains the effect of Regen from Aho Senpai for 18.00 Seconds.`
 `[11:03:51.122] 1E:1004594B:Aho Senpai loses the effect of Regen from Aho Senpai.`
 
