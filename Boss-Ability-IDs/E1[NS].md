@@ -1,5 +1,7 @@
 # Eden's Gate: Resurrection [Normal | Savage]
 
+[The Balance Text Guide](https://thebalanceffxiv.com/guide/e1s/)
+
 Ability ID | Ability Name | Difficulty | Common Callout
 ---|---|---|---
 [44F4](#44F4) | [Delta Attack](#Delta-Attack) | Savage | Delta Spread Corners
