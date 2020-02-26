@@ -67,3 +67,8 @@ Example Line
 Example Line  
 `[11:03:35.394] 15:1004594B:Aho Senpai:4094:Dia:4000051C:Striking Dummy:750003:1AB00000:A0FB0E:74F0000:1B:40948000:0:0:0:0:0:0:0:0:0:0:2862410:2862500:0:0:0:1000:718.0647:267.0143:28.31746:-1.570485:90301:90301:9798:0:0:1000:717.3131:265.6258:28.42561:0.4961289:0031D311`
 
+##### Buff
+
+Example Line  
+`[11:03:36.686] 1A:4000051C:Striking Dummy gains the effect of Dia from Aho Senpai for 30.00 Seconds.`  
+`[11:04:06.671] 1E:4000051C:Striking Dummy loses the effect of Dia from Aho Senpai.`
