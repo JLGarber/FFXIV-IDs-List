@@ -4,7 +4,7 @@ List of the different IDs for FFXIV
 
 [Quisquous Log Guide](https://github.com/quisquous/cactbot/blob/master/docs/LogGuide.md)
 
-This Repo is mainly focsed on FFXIV Network Log Lines (the ones shown in the ACT "View Logs")|, BUT will also support the "Raw events"
+This Repo is mainly focused on FFXIV Network Log Lines (the ones shown in the ACT "View Logs")|, BUT will also support the "Raw events"
 
 For Reference, here is an example of the FFXIV Network Log Lines
 
