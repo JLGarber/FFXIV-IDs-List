@@ -5,30 +5,23 @@ Hex Line | Hex ID | Name
 15|78|Cure  
 15|87|Cure II
 15|4093|Afflatus Solace
-
-:89:Regen:  
-
-:77:Stone:  
-:7F:Stone II:  
-:DF0:Stone III:  
-:D107:Stone IV:  
-:4095:Glare:  
-
-:79:Aero:  
-:84:Aero II:  
-:4094:Dia:  
-
-:8C:Benediction:  
-:DF2:Tetragrammaton:  
-:1D08:Divine Benison:  
-:4098:Temperance:  
-
-:86:Fluid Aura:  
-
-:1D06:Thin Air:  
-:88:Presence Of Mind:  
-
-:7D:Raise:  
+15|89|Regen
+15|77|Stone
+15|7F|Stone II
+15|DF0|Stone III
+15||D107|Stone IV
+15|4095|Glare
+15|79|Aero  
+15|84|Aero II  
+15|4094|Dia
+15|8C|Benediction
+15|DF2|Tetragrammaton:  
+15|1D08|Divine Benison:  
+15|4098|Temperance:  
+15|86|Fluid Aura:  
+15|1D06|Thin Air:  
+15|88|Presence Of Mind:  
+15|7D|Raise:  
 
 ### Single Target OR AoE
 :7C:Medica: (1[56]:)  
