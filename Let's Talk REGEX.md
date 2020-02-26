@@ -24,7 +24,7 @@ Now that this is clear, let's say i want to make a regex for a trigger to beep e
 `15:1004594B:Aho Senpai:07:Attack:`
 
 This part of the line is all i really need, and i can actually remove the Ability Name part if i want too, but it'll leave it. 
-(Removing the ability name in this case can really help if trying to make a trigger that work regardless of game language`
+(Removing the ability name in this case can really help if trying to make a trigger that work regardless of game language)
 
 Now, While this regex in itself can work, it's far from ideal for a major reason: 
 - it's tied to MY character name and ID
