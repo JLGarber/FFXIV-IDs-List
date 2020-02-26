@@ -17,7 +17,7 @@ Now that we have the part that interest us, let's see what all of this means
 
 15|1004594B|Aho Senpai|07|Attack|4000051C|Striking Dummy|710003|6CA0000|
 ---|---|---|---|---|---|---|---|---
-Line ID|Caster ID|Caster Name|Ability ID|Ability Name|Target ID|Target Name|Flags *[ ]to add link for flags*|Damage
+Line ID|Caster ID|Caster Name|Ability ID|Ability Name|Target ID|Target Name|Flags [ ]*to add link for flags*|Damage
 
 Now that this is clear, let's say i want to make a regex for a trigger to beep everytime i do an AA (Auto Attack)
 
