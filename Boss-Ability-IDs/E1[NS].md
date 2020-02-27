@@ -25,7 +25,7 @@ Ability ID | Ability Name | Difficulty | Common Callout
 44E4 | Vice And Virtue | Normal | Split Buster
 
 
-:###: Fight Mechanics
+### Fight Mechanics
 
 Savage
 
