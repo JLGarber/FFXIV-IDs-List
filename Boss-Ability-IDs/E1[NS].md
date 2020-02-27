@@ -39,3 +39,33 @@ A big + sign from the middle, as well as a point-blank AoE, leaving the corners 
 all 8 players have a fire explosion however  
 
 Have 2 player per corner to avoid overlappping fires
+
+
+#### Eden's Flare
+
+Regex  
+`\[.{14}14:3D(73|97):Eden Prime starts using Eden's Flare on Eden Prime`
+
+
+#### Eden's Gravity
+
+Regex  
+`\[.{14}14:3D(70|94):Eden Prime starts using Eden's Gravity on Eden Prime`
+
+
+#### Pure Light
+
+Regex  
+`\[.{14}14:3D(8A|A3):Eden Prime starts using Pure Light on Eden Prime`
+
+
+#### Spear Of Paradise
+
+Regex  
+`\[.{14}14:3D(88|A1):Eden Prime starts using Spear Of Paradise on (?<player>[a-zA-Z-' ]{3,21})`
+
+
+#### Vice And Virtue
+
+Regex  
+`\[.{14}14:(?<cast>[A-F0-9]{4}):Eden Prime starts using Vice And Virtue`
