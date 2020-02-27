@@ -7,7 +7,7 @@ Ability ID | Ability Name | Difficulty | Common Callout
 [44F4](#44F4) | [Delta Attack](#Delta-Attack) | Savage | Delta Spread Corners
 44F8 | [Delta Attack](#Delta-Attack) | Savage | Delta Stack Tank Spread
 44EA | [Delta Attack](#Delta-Attack) | Normal | Delta Spread Corners
-3D73 | [Eden's Flare](#Eden's-Flare) | Normal? | Go In
+3D73 | [Eden's Flare](#Edens-Flare) | Normal? | Go In
 3D97 | Eden's Flare | Savage? | Go In
 3D70 | Eden's Gravity | Normal ? | AoE
 3D94 | Eden's Gravity | Savage ? | AoE
