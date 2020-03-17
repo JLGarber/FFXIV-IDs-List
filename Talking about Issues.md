@@ -16,3 +16,5 @@ Regex off of the `1[AE]:` line ? or off of the `15:` line ?
 To that i do not have the answer, it mainly depends on what you want to achieve really. The easier way would be going for the buff line, mainly because you do have access to the duration. However, it's possible to go for the skill used and set a duration manually. It's up to YOU
 
 Another thing to consider however, is the timers. often the buff will take 0.5s or so to show up, which isalso why a lot of people will prefer triggering off of the buff line to be more accurate with the game timers
+
+From NGLD : "The network version for the 1[AE] lines has the buff ID. That should make language agnostic triggers easier."
