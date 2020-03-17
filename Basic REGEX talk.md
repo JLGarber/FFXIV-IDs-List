@@ -30,8 +30,8 @@ moving on to groups constructs
 `{ }` will quantify depending on the values you enter  
 `{ , }` will match between the 2 values you enter  
 
-special mention for single character 2 choices (like `(1|2)`)  
-keep in mind that in that special case you can simply use `[12]` and keep your regex simple and clean  
+special mention for single character choices (like `(1|2)` or `(1|2|3|4)`)  
+keep in mind that in that special case you can simply use `[12]` or `[1234]` and keep your regex simple and clean  
 
 AVOID as much as you can  
 `.*` is generally speaking "bad practice" mainly for the fact that it matches anything and has no limit. PLEASE DO NOT USE CARELESSLY  
