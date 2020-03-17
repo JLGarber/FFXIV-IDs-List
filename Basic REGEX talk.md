@@ -9,7 +9,7 @@ before we start, i feel the need to mention that when you copy/paste from ACT lo
 so, le's go over a few basics regex elements to begin with  
 `.` will match any single character  
 `\d` will match and digit  
-`\n` ?should match characters? to check  
+`\w` match world characters (is equal to `[a-zA-Z0-9 ]`  
 `+` is a quantifier, and will match  or more (is used after a character or a group. for example : `F+XIV` would match the string "FFXIV")  
 `?` is another quantifier, will match 0 or 1 of (`FFXI?V` would match "FFXIV" but also "FFXV")  
 `*` is yet another quantifier, will match any amount of IMPORTANT : i do not recommend using thi s asa general rule of thumb, unless you know what you do OR there's a couple exeptions where i would use it, will get to that later  
